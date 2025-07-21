@@ -4,7 +4,6 @@
 
  
 
-
 <h1 align="center">Hi 👋, I'm Devendra Dhaked</h1> 
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400"
