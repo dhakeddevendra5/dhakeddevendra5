@@ -1,10 +1,4 @@
-
-
-
-
   ![MasterHead](https://drive.google.com/uc?export=view&id=1CrWusDj11og3-RD1jYjr4sayCe10Hggi)
-
- 
 
 <h1 align="center">Hi 👋, I'm Devendra Dhaked</h1> 
 <h3 align="center">A passionate software developer from India</h3>
@@ -19,7 +13,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Android**
  
 - 💬 Ask me about **spring, react, docker**
 
