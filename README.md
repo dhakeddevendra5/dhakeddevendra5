@@ -1,22 +1,21 @@
- ![MasterHead](https://drive.google.com/uc?export=view&id=1CrWusDj11og3-RD1jYjr4sayCe10Hggi)
+![MasterHead](https://drive.google.com/uc?export=view&id=1CrWusDj11og3-RD1jYjr4sayCe10Hggi)
 
 <h1 align="center">Hi 👋, I'm Devendra Dhaked</h1> 
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFjbjRnZHNsdGdhbG9menFyN2t5eDl0Zjdlc2ozYmlvM3ZpOGxsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFjbjRnZHNsdGdhbG9menFyN2t5eDl0Zjdlc2ozYmlvM3ZpOGxsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
   
+<p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=dhakeddevndra5&label=Profile%20views&color=0e75b6&style=flat" alt="dhakeddevndra5" /> 
+</p>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=dhakeddevndra5&label=Profile%20views&color=0e75b6&style=flat"
-        alt="dhakeddevndra5" /> </p>
+<p align="left"> 
+   <a href="https://twitter.com/" target="blank">
+      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+   </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Android**
- 
+- 🌱 I’m currently learning **Android** 
 - 💬 Ask me about **spring, react, docker**
-
 - 📫 How to reach me **dhakeddevendra5@gmailk.com**
 
 <h3 align="left">Connect with me:</h3>
