@@ -19,41 +19,41 @@
 - 📫 How to reach me **dhakeddevendra5@gmailk.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- <table>
- <tr>
-  <td>
-   <a href="https://dhakeddevendra5.vercel.app/" target="blank">
-     <img align="center" src="https://github.com/dhakeddevendra5/DD/blob/main/public/images/logo.png" alt="https://dhakeddevendra5.vercel.app/" height="30" width="40" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.linkedin.com/in/dhakeddevendra5/" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhakeddevendra5/" height="30" width="40" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.hackerrank.com/dhakeddevendra5" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhakeddevendra5" height="30" width="40" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.leetcode.com/dhakeddevendra5" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhakeddevendra5" height="30" width="40" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.hackerearth.com/@dhakeddevendra5" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dhakeddevendra5" height="30" width="40" />
-    </a>
-  </td>
-  <td>
-    <a href="https://auth.geeksforgeeks.org/user/dhakeddevendra5" target="blank">
-     <img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhakeddevendra5" height="30" width="40" />
-    </a>
-  </td>
- </tr>
- </table>
+    <p align="left">
+        <table>
+            <tr>
+                <td>
+                    <a href="https://dhakeddevendra5.vercel.app/" target="blank">
+                        <img align="center" src="https://github.com/dhakeddevendra5/DD/blob/main/public/images/logo.png" alt="https://dhakeddevendra5.vercel.app/" height="30" width="40" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.linkedin.com/in/dhakeddevendra5/" target="blank">
+                        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhakeddevendra5/" height="30" width="40" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.hackerrank.com/dhakeddevendra5" target="blank">
+                        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhakeddevendra5" height="30" width="40" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.leetcode.com/dhakeddevendra5" target="blank">
+                        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhakeddevendra5" height="30" width="40" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.hackerearth.com/@dhakeddevendra5" target="blank">
+                        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dhakeddevendra5" height="30" width="40" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://auth.geeksforgeeks.org/user/dhakeddevendra5" target="blank">
+                        <img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhakeddevendra5" height="30" width="40" />
+                    </a>
+                </td>
+           </tr>
+      </table>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
