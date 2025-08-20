@@ -116,6 +116,13 @@
         </td>
     </tr>
     <tr>
+        <td><strong>Android</strong></td>
+        <td>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"
+                title="Android" alt="mysql" width="40" height="40" />
+        </td>
+    </tr>
+    <tr>
         <td><strong>Others</strong></td>
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="MATLAB" alt="matlab"
