@@ -24,6 +24,11 @@
  <table>
  <tr>
   <td>
+   <a href="https://dhakeddevendra5.vercel.app/" target="blank">
+     <img align="center" src="https://github.com/dhakeddevendra5/DD/blob/main/public/images/logo.png" alt="https://dhakeddevendra5.vercel.app/" height="30" width="40" />
+    </a>
+  </td>
+  <td>
     <a href="https://www.linkedin.com/in/dhakeddevendra5/" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhakeddevendra5/" height="30" width="40" />
     </a>
