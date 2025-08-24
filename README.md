@@ -17,7 +17,7 @@
    </a> 
 </p>
 
-- 🌱 I’m currently learning **Android** 
+- 🌱 I’m currently learning **GenAI** 
 - 💬 Ask me about **spring, react, docker**
 - 📫 How to reach me **dhakeddevendra5@gmailk.com**
 
