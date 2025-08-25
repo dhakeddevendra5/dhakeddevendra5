@@ -67,6 +67,8 @@
         <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                 title="HTML5" alt="html" width="40" height="40" />
+        </td>
+        <td>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                 title="CSS3" alt="css" width="40" height="40" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
